@@ -12,3 +12,5 @@ You will need MySql installed and setup on your local machine.
 Then navigate into the cloned repository `burger-devour` and run `npm install` to install dependencies.
 
 Setup the local database by running the `schema.sql` from the `db` directory in a MySql interface (e.g. Terminal, MySql Workbench)
+
+https://burger-jrt.herokuapp.com/
